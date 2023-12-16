@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="RoleDTO"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="list"/>
+			<item value="comp"/>
+			<item value="component"/>
+			<item value="com"/>
+			<item value="entityManage"/>
+			<item value="override"/>
+			<item value="Login Id already exist"/>
+			<item value="Session Expired, Please Login Again"/>
+			<item value="Invalid ID or Password"/>
+			<item value="profilepic"/>
+			<item value="actu"/>
+			<item value="act"/>
+			<item value="11"/>
+			<item value="1.8"/>
+			<item value="Please fill following empty fields"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1059"/>
+		<item key="DIALOG_Y_ORIGIN" value="464"/>
+		<item key="DIALOG_WIDTH" value="385"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="567"/>
+		<item key="DIALOG_Y_ORIGIN" value="308"/>
+	</section>
+</section>
