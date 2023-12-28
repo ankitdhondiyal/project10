@@ -120,6 +120,8 @@ export class LoginComponent implements OnInit {
 
         _self.httpService.setToken(res.result.token);
         localStorage.setItem("loginId", res.result.loginId);
+
+
         
         let tokenStr = "Bearer " + res.result.token;
         localStorage.setItem("token", tokenStr);
