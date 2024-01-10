@@ -42,6 +42,9 @@
   "Log Out" : "लॉग आउट",
   "Back" : "पीछे जाए",
   "Update" : "अपडेट करें",
+
+  "Ankit":"अंकित",
+  "Admin":"व्यवस्थापक ",
   
   "S.No":"क्रमिक संख्या",
   "Image" : "छवि",
@@ -106,6 +109,10 @@
   "Maths" : "गणित",
   "Enter Maths Marks"  : "गणित के अंक दर्ज करें",
 
+  "Search Description":"विवरण खोजें",
+
+  "Select Roll No":"रोल नंबर चुनें",
+  "Select name":"नाम चुनें",
   "Search Name" : "नाम खोजें",
   "Search Roll No": "रोल नं खोजें",
   "ID" : "",
@@ -169,6 +176,7 @@
 "Reset My Password" : "मेरा पासवर्ड भेजें",
 "Reset" : "रीसेट",
 
+"Select CourseName":"पाठ्यक्रम का नाम चुनें",
 "Search Email" : "ईमेल खोजें",
 "Select Role": "भूमिका खोजें",
 "Search Status":"स्थिति खोजें",
