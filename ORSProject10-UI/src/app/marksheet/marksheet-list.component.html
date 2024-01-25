@@ -24,7 +24,7 @@ background-size: cover;width:auto;
         <div class="col-sm-2">
 
           <select class="form-control" name="id" [(ngModel)]="form.searchParams.id" aria-label="ngSelected">
-            <option [ngValue]="" value="undefined">{{' Select Roll No' | translate }}</option>
+            <option [ngValue]="" value="undefined">{{'Select Roll No' | translate }}</option>
             <option *ngFor="let obj of form.preload.marksheetList" [value]="obj.key">{{obj.value}}</option>
           </select>
 
